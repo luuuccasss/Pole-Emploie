@@ -19,6 +19,6 @@ Ce dépôt GitHub fournit un script pour intégrer les métiers de **Mineur**, *
 - [RageUI](https://github.com/ImBaphomettt/RageUI) | [Merci ImBaphomettt](https://github.com/ImBaphomettt) 
 
 ## Licence
-
+ 
 Ce projet est sous la [Licence MIT](https://opensource.org/licenses/MIT). Vous pouvez utiliser, modifier et distribuer le code, à condition de conserver l'avis de copyright et la déclaration de licence.
 
