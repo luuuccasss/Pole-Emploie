@@ -10,7 +10,7 @@ Ce dépôt GitHub fournit un script pour intégrer les métiers de **Mineur**, *
 
 ## Installation
 
-1. Clonez le dépôt : `git clone https://github.com/username/repo.git`
+1. Clonez le dépôt : `git clone https://github.com/FrenchGuys/Pole-Emploie-/releases/download/1.0.0/PoleEmploi.zip`
 2. Placez le dossier dans `resources` de votre serveur FiveM.
 3. Ajoutez `start poleemploi` à votre `server.cfg`.
 
