@@ -20,4 +20,5 @@ Ce dépôt GitHub fournit un script pour intégrer les métiers de **Mineur**, *
 
 ## Licence
 
-Ce projet est sous la [Licence GNU General Public License (GPL) v3](https://www.gnu.org/licenses/gpl-3.0.html). Vous êtes libre d'utiliser, de modifier et de distribuer le code, tant que vous respectez les mêmes conditions.
+Ce projet est sous la [Licence MIT](https://opensource.org/licenses/MIT). Vous pouvez utiliser, modifier et distribuer le code, à condition de conserver l'avis de copyright et la déclaration de licence.
+
