@@ -16,7 +16,7 @@ Ce dépôt GitHub fournit un script pour intégrer les métiers de **Mineur**, *
 
 ## Dépendances
 
-- [RageUI](https://github.com/Ragemp/RageUI)
+- [RageUI](https://github.com/ImBaphomettt/RageUI)
 
 ## Licence
 
